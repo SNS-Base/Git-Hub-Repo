@@ -25,3 +25,17 @@ Today, we finalized the core modules to be built:
 5.  **More Features for better UI:**
     - **Audit Logs:** Data of who changed what data.
     - **Notification Center:** Real-time alerts for approvals or errors.
+
+
+### Day 2: January 29, 2026
+** Goal:** Develop Authentication Interface (Login/Sign-Up Page)
+
+** Completed Tasks:**
+
+- **Frontend Logic (React + TypeScript):**
+  - Implemented `useState` to handle form inputs (email/password) and loading states (`isLoading`).
+  - Integrated **./login** Router to handle navigation logic og Login  route.
+  - Added login feedback wheter logged in or not.
+
+- **Styling & Assets:**
+  - Used **Tailwind CSS** for styling.
